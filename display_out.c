@@ -35,4 +35,4 @@ repeat(forever)
 	//displaySensorValues(line1, Color);
 //{wait1Msec(300)
 //while (1)
-// if (SensorValue [port7]>)
+// if (SensorValue [port7]>) комент
